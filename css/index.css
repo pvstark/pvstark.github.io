@@ -1,0 +1,15 @@
+@media(min-width: 769px){
+    .container{
+        display: grid;
+        grid-template-columns: 5fr 2fr;
+    }
+
+    main{
+        grid-column: 1;
+    }
+
+    aside{
+        grid-column: 2;
+        margin: 20px;
+    }
+}

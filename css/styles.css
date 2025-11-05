@@ -1,10 +1,10 @@
 body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
-            margin: 0;
+            margin: 50px;
             padding: 0;
             color: #333;
-            background-color: rgb(67, 49, 74);
+            background-color: lightgrey;
         }
         .container {
             max-width: 800px;
@@ -16,9 +16,11 @@ body {
         }
         h1{
             color: rgb(108, 76, 148);
+            text-align: center;
         }
         h2 {
             color: rgb(183, 97, 171);
+            text-align: center;
         }
         .header {
             text-align: center;
